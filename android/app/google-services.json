@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413515513457",
+    "firebase_url": "https://mr-volt-a1a7e.firebaseio.com",
+    "project_id": "mr-volt-a1a7e",
+    "storage_bucket": "mr-volt-a1a7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413515513457:android:5799ded0e0909b1040e5d0",
+        "android_client_info": {
+          "package_name": "com.volt.sign_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413515513457-ifdfltlg460l5hacjnkapjjfgfusmj9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD5yij0CzuyObp-NCRQcGZfmTigaAqvkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413515513457-ifdfltlg460l5hacjnkapjjfgfusmj9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
